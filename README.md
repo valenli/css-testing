@@ -5,3 +5,6 @@
 
 > 2023_12_02 Pictures Animation  (HTML CSS)
 >> <https://valenli.github.io/Pictures%20Animation/index.html>
+
+> 2023_12_03 Random_Background_Color_Animation  (HTML CSS JS)
+>> <https://valenli.github.io/Random_Background_Color_Animation/index.html>
