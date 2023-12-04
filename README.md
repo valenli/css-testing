@@ -11,3 +11,9 @@
 
 > 2023_12_03 Stars_Background  (HTML CSS JS)
 >> <https://valenli.github.io/Stars_Backgroundn/index.html>
+
+> 2023_12_04 3D_List_Hover_Effects  (HTML CSS JS)
+>> <https://valenli.github.io/3D_List_Hover_Effects/index.html>
+
+> 2023_12_04 Animated_Number_Spinner  (HTML CSS JS)
+>> <https://valenli.github.io/Animated_Number_Spinner/index.html>
